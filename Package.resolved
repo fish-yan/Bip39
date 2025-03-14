@@ -1,0 +1,24 @@
+{
+  "originHash" : "26476d32bf3787a5b81dbddab61a8809291c8285d86c38c10a811a27c890b602",
+  "pins" : [
+    {
+      "identity" : "cryptoswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/krzyzanowskim/CryptoSwift.git",
+      "state" : {
+        "revision" : "729e01bc9b9dab466ac85f21fb9ee2bc1c61b258",
+        "version" : "1.8.4"
+      }
+    },
+    {
+      "identity" : "web3extension",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fish-yan/Web3Extension",
+      "state" : {
+        "revision" : "565858dd3f198ad209c28ebae0865cdeb83fdf06",
+        "version" : "0.0.1"
+      }
+    }
+  ],
+  "version" : 3
+}
